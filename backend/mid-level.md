@@ -1,6 +1,6 @@
 # Backend Mid
 
-Develop a Rest API using
+Develop a Rest API
 
 ## Task
 
@@ -28,5 +28,9 @@ As an API Client, I want to make a request with the GET method to get the entire
 As an API Client, I want to make a request with the DELETE method to make a logical deletion of an annotation.
 
 #### Batch to empty trash
-Annotations that have been logically deleted within a 30 day period must be permanently removed from the database. For this, the application must run an activity daily at midnight to carry out this process.
+Annotations that have been logically deleted within a 30-day period must be permanently removed from the database. For this, the application must run an activity daily at midnight to carry out this process.
+
+## How to deliver it?
+
+The task can be marked as finished if it has a Github repository containing the source code, and a readme with the instructions to build and test it. As a database is required to finish this task, a docker-compose and instructions on how to use it would be great.
 
