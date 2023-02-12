@@ -1,12 +1,12 @@
 # Backend Mid
 
-Develop a Rest API using Java and SpringBoot and make the service available on an AWS EC2 instance or GCP Compute Engine.
+Develop a Rest API using
 
 ## Task
 
 ### Use case
 
-AlwaysNote is a technology startup that aims to replace quick note taking apps.
+AlwaysNote is a tech startup that aims to replace quick notes apps such as Keep and Notes.
 
 ### Resources
 
@@ -29,3 +29,4 @@ As an API Client, I want to make a request with the DELETE method to make a logi
 
 #### Batch to empty trash
 Annotations that have been logically deleted within a 30 day period must be permanently removed from the database. For this, the application must run an activity daily at midnight to carry out this process.
+
