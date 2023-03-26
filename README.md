@@ -8,11 +8,17 @@ The goal of this repo is to keep a few tasks that a developer should be able to 
 
 ## Back End
 
+[Concepts](/concepts)
+
+### Project Ideas
+
 [Entry Level](/backend/entry-level.md)
 
 [Mid Level](/backend/mid-level.md)
 
 ## Front End
+
+### Project Ideas
 
 [Entry level](/frontend)
 
