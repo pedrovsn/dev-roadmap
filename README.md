@@ -18,9 +18,13 @@ The goal of this repo is to keep a few tasks that a developer should be able to 
 
 ## Front End
 
+[Concepts](/frontend)
+
 ### Project Ideas
 
-[Entry level](/frontend)
+### Project Ideas
+
+[Delivery Calculator](/frontend/delivery-calculator.md)
 
 ## Data Structures
 
