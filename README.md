@@ -8,7 +8,7 @@ The goal of this repo is to keep a few tasks that a developer should be able to 
 
 ## Back End
 
-[Concepts](/concepts)
+[Concepts](/backend)
 
 ### Project Ideas
 
