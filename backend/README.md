@@ -1,6 +1,7 @@
 ## Project Ideas
 
-[Mid Level](mid-level.md)
+[Notes](notes.md)
+[ToDo List](todo-list.md)
 
 ## Must know
 
