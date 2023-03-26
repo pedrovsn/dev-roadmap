@@ -29,30 +29,3 @@ Após o cálculo, deve ser apresentada na mesma tela, abaixo do botão "Calcular
 Para considerar a atividade como completa, o código fonte deve ser disponibilizado em um repositório no Github que contenha as instruções para a execução da aplicação com o Docker.
 
 Obs.: para o desenvolvimento da tela, deve ser utilizado o framework de HTML/CSS Bootstrap.
-
-## Good to Know
-
-### O que é um SPA?
-
-### Qual a diferença entre JavaScript e TypeScript?
-
-### O que é um framework?
-
-### O que é HTTP?
-
-### O que é uma API?
-
-### O que é REST?
-
-### O que significa dizer que uma página é responsiva?
-
-### Qual a diferença entre HTML e Boostrap?
-
-### O que é Nginx?
-
-### O que é Docker?
-
-
-
-
-
